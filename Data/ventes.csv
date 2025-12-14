@@ -1,0 +1,9 @@
+date,produit,categorie,prix,quantite,ville
+2024-01-01,Stylo,Fournitures,1.5,10,Paris
+2024-01-02,Cahier,Fournitures,3.0,5,Lyon
+2024-01-02,Clavier,Informatique,25.0,2,Paris
+2024-01-03,Souris,Informatique,15.0,3,Marseille
+2024-01-03,Stylo,Fournitures,1.5,20,Lyon
+2024-01-04,Ecran,Informatique,120.0,1,Paris
+2024-01-05,Cahier,Fournitures,3.0,7,Marseille
+2024-01-05,Souris,Informatique,15.0,4,Paris
