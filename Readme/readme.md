@@ -85,7 +85,7 @@ Ce projet montre la capacité à transformer des données brutes Sage en **infor
 ---
 
 ## Visualiser le Graphique
-Visuels/ca_cat_ville.png
+![Dashboard CA](../Visuels/ca_cat_ville.png
 
 ---
 ## 📁 Structure du projet
