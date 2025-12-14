@@ -7,8 +7,6 @@ L'objectif est d'analyser les ventes afin de produire un **rapport clair et acti
 
 ---
 
-## Visualiser le Graphique
-visuals/ca_cat_ville.png
 ## 🎯 Objectifs
 
 - Calculer le **chiffre d’affaires (CA)** total  
@@ -86,6 +84,10 @@ Ce projet montre la capacité à transformer des données brutes Sage en **infor
 
 ---
 
+## Visualiser le Graphique
+Visuels/ca_cat_ville.png
+
+---
 ## 📁 Structure du projet
 
 analyse-ventes-sage/
